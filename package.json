@@ -1,0 +1,19 @@
+{
+  "name": "katha",
+  "version": "1.0.0",
+  "description": "A wrapper for the Katha.audio API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/katha.git"
+  },
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/katha/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/katha#readme"
+}
