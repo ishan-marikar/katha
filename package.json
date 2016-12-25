@@ -1,6 +1,6 @@
 {
   "name": "katha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for the Katha.audio API",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ishan-marikar/katha#readme",
   "dependencies": {
-    "unirest": "^0.4.2",
+    "unirest": "^0.5.1",
     "url-join": "^1.1.0"
   }
 }
