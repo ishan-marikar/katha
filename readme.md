@@ -1,3 +1,5 @@
+# This module has been deprecated as katha.audio no longer exists.
+
 # katha
 A wrapper for the Katha.audio API
 
